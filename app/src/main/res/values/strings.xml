@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I may be poor, but I am winning.</string>
+    <string name="subtitle">Chuck Norris eats coal for breakfast.</string>
 </resources>
